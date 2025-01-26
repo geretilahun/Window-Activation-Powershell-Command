@@ -1,6 +1,6 @@
 # Window-Activation-Powershell-Command
 
-Windows 10 &amp; 11 Activation: 2-minute Solution Using Powershell 
+> Windows 10 &amp; 11 Activation: 2-minute Solution Using Powershell 
 
 #
 This repository contains a way that can activate Windows 10 and 11 in few seconds. The methodes is compatible with home, home N, Home single lang, Home country specific, professional, education and enterprise versions of Windows.
