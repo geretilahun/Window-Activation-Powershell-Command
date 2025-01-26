@@ -42,3 +42,7 @@ now you can hit the enter key to exit the CMD and close PowerShell and check win
 
 [^6]: To see windows activation status you must to go:  
 ***Settings → Update & Security → activation menu.***
+
+```CSS
+ Ensure your internet connection is active during this process for proper activation.
+```
