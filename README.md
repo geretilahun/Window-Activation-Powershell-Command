@@ -1,6 +1,6 @@
 # Window-Activation-Powershell-Command
 
-> Windows 10 &amp; 11 Activation: 2-minute Solution Using Powershell 
+> Windows 10 &amp; 11 Activation: 2-minute Solution Using Powershell [^10]
 
 #
 
