@@ -36,8 +36,8 @@ Now paste it (with right-click) and hit the enter key. In the newly opened windo
 
 
 ## Congratulations,
-your Windows has been activated.  
-now you can hit the enter key to exit the CMD and close PowerShell and check windows Activation menu [^3]
+Windows has been activated.  
+Then hit the enter key to exit the Powershell tool and close PowerShell and check windows Activation menu [^3]
 
 
 [^6]: To see windows activation status you must to go:  
